@@ -18,7 +18,7 @@ archivesBaseName = 'blockstateissue'
 sourceCompatibility = targetCompatibility = compileJava.sourceCompatibility = compileJava.targetCompatibility = '1.8'
 
 minecraft {
-    mappings channel: 'snapshot', version: '20190719-1.14.3'
+    mappings channel: 'snapshot', version: '20200411-1.15.1'
     runs {
         client {
             workingDirectory project.file('run')
@@ -73,7 +73,7 @@ minecraft {
 }
 
 dependencies {
-    minecraft 'net.minecraftforge:forge:1.14.4-28.2.6'
+    minecraft 'net.minecraftforge:forge:1.15.2-31.1.73'
 }
 
 // Example for how to get properties into the manifest for reading by the runtime..
