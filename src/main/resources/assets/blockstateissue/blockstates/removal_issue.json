@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "has_te=false": {
+      "model": "block/diorite"
+    },
+    "has_te=true": {
+      "model": "block/gold_ore"
+    }
+  }
+}

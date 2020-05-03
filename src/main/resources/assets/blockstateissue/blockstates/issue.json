@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "has_te=false": {
+      "model": "block/stone"
+    },
+    "has_te=true": {
+      "model": "block/diamond_ore"
+    }
+  }
+}

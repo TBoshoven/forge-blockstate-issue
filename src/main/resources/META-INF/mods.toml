@@ -1,0 +1,8 @@
+modLoader="javafml"
+loaderVersion="[28,)"
+
+[[mods]]
+modId="blockstateissue"
+version="${file.jarVersion}"
+displayName="BlockState Issue Demo Mod"
+description="Mod demonstrating an issue with hasTileEntity()"
